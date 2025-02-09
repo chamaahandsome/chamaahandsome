@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @chamaahandsome
-- 👀 I’m interested in ... Being a developer
-- 🌱 I’m currently learning ... Python 
-- 💞️ I’m looking to collaborate on ... Not sure. learning for now.
-- 📫 How to reach me ... timboywa@gmail.com
+- 👀 I’m building a SmartwebApp
 
 <!---
 chamaahandsome/chamaahandsome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
